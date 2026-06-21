@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.easybc.planner",
+      "sha256_cert_fingerprints": [
+        "0A:62:0C:EC:65:18:17:51:19:90:D0:D8:6C:96:9F:A6:B7:00:41:D9:C1:3E:F9:67:87:46:22:F2:21:61:BD:56"
+      ]
+    }
+  }
+]
