@@ -179,12 +179,19 @@ The most common responses to that question are summed up with the following labe
   </div>
 
   <p class="comment-via-email">
-    <a data-comment-email href="#">Comment via email</a>
+    <a
+      data-comment-email
+      href="#"
+      data-address="keyneom122&#43;blogcomments@hotmail.com"
+      data-page-url="https://keyneom.github.io/posts/optimism-and-expectations/"
+    >Comment via email</a>
   </p>
   <script>
     (function () {
-      const address = "\"keyneom122+blogcomments@hotmail.com\"";
-      const pageUrl = "\"https://keyneom.github.io/posts/optimism-and-expectations/\"";
+      const link = document.querySelector("[data-comment-email]");
+      if (!link) return;
+      const address = link.dataset.address;
+      const pageUrl = link.dataset.pageUrl;
       const subject = "Comment for: " + pageUrl;
       const body = [
         "=== Blog comment template — keep Page line and subject unchanged ===",
@@ -200,13 +207,12 @@ The most common responses to that question are summed up with the following labe
       ].join("\n");
       const href =
         "mailto:" +
-        address +
+        address.replace(/\+/g, "%2B") +
         "?subject=" +
         encodeURIComponent(subject) +
         "&body=" +
         encodeURIComponent(body);
-      const link = document.querySelector("[data-comment-email]");
-      if (link) link.href = href;
+      link.href = href;
     })();
   </script>
 </section>
