@@ -1,20 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>resilience on Mika Sanchez</title>
-    <link>https://keyneom.github.io/tags/resilience/</link>
-    <description>Recent content in resilience on Mika Sanchez</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 22 Sep 2019 00:00:00 -0600</lastBuildDate><atom:link href="https://keyneom.github.io/tags/resilience/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Resilience &amp; Grit</title>
-      <link>https://keyneom.github.io/posts/resilience-and-grit/</link>
-      <pubDate>Sun, 22 Sep 2019 00:00:00 -0600</pubDate>
-      
-      <guid>https://keyneom.github.io/posts/resilience-and-grit/</guid>
-      <description>Overcoming Trials in a World of Instant Gratification Today during my talk I&amp;rsquo;d like to focus on how and why we need to develop the Christlike attribute of resilience and grit.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Resilience on Mika Sanchez</title>
+		<link>https://keyneom.github.io/tags/resilience/</link>
+		<description>Recent content in Resilience on Mika Sanchez</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Sun, 22 Sep 2019 00:00:00 -0600</lastBuildDate>
+		
+			<atom:link href="https://keyneom.github.io/tags/resilience/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Resilience &amp; Grit</title>
+				<link>https://keyneom.github.io/posts/resilience-and-grit/</link>
+				<pubDate>Sun, 22 Sep 2019 00:00:00 -0600</pubDate>
+				<guid>https://keyneom.github.io/posts/resilience-and-grit/</guid>
+				<description>&lt;h3 id=&#34;overcoming-trials-in-a-world-of-instant-gratification&#34;&gt;Overcoming Trials in a World of Instant Gratification&lt;/h3&gt;&#xA;&lt;p&gt;Today during my talk I&amp;rsquo;d like to focus on how and why we need to develop the Christlike attribute of resilience and grit. To me, they are the same thing in practice so you&amp;rsquo;ll hear me use them interchangeably throughout the talk.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

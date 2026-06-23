@@ -1,30 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>optimist on Mika Sanchez</title>
-    <link>https://keyneom.github.io/tags/optimist/</link>
-    <description>Recent content in optimist on Mika Sanchez</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 02 Jul 2020 21:32:56 -0600</lastBuildDate><atom:link href="https://keyneom.github.io/tags/optimist/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Never Take Offense</title>
-      <link>https://keyneom.github.io/posts/never-take-offense/</link>
-      <pubDate>Thu, 02 Jul 2020 21:32:56 -0600</pubDate>
-      
-      <guid>https://keyneom.github.io/posts/never-take-offense/</guid>
-      <description>TL;DR Taking offense is always the wrong choice . . .</description>
-    </item>
-    
-    <item>
-      <title>Optimism and Expectations</title>
-      <link>https://keyneom.github.io/posts/optimism-and-expectations/</link>
-      <pubDate>Tue, 14 Feb 2017 12:00:00 -0600</pubDate>
-      
-      <guid>https://keyneom.github.io/posts/optimism-and-expectations/</guid>
-      <description>Is the glass half empty or half full?
-The most common responses to that question are summed up with the following labels and responses:</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Optimist on Mika Sanchez</title>
+		<link>https://keyneom.github.io/tags/optimist/</link>
+		<description>Recent content in Optimist on Mika Sanchez</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 02 Jul 2020 21:32:56 -0600</lastBuildDate>
+		
+			<atom:link href="https://keyneom.github.io/tags/optimist/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Never Take Offense</title>
+				<link>https://keyneom.github.io/posts/never-take-offense/</link>
+				<pubDate>Thu, 02 Jul 2020 21:32:56 -0600</pubDate>
+				<guid>https://keyneom.github.io/posts/never-take-offense/</guid>
+				<description>&lt;h2 id=&#34;tldr&#34;&gt;TL;DR&lt;/h2&gt;&#xA;&lt;p&gt;Taking offense is always the wrong choice . . . and it &lt;em&gt;is&lt;/em&gt; a choice! But don&amp;rsquo;t easily offend either.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Optimism and Expectations</title>
+				<link>https://keyneom.github.io/posts/optimism-and-expectations/</link>
+				<pubDate>Tue, 14 Feb 2017 12:00:00 -0600</pubDate>
+				<guid>https://keyneom.github.io/posts/optimism-and-expectations/</guid>
+				<description>&lt;p&gt;Is the glass half empty or half full?&lt;/p&gt;&#xA;&lt;p&gt;The most common responses to that question are summed up with the following labels and responses:&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

@@ -1,20 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>balance on Mika Sanchez</title>
-    <link>https://keyneom.github.io/tags/balance/</link>
-    <description>Recent content in balance on Mika Sanchez</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 19 Jan 2022 14:17:55 -0700</lastBuildDate><atom:link href="https://keyneom.github.io/tags/balance/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Maslow Is Misleading You</title>
-      <link>https://keyneom.github.io/posts/maslow-is-misleading-you/</link>
-      <pubDate>Wed, 19 Jan 2022 14:17:55 -0700</pubDate>
-      
-      <guid>https://keyneom.github.io/posts/maslow-is-misleading-you/</guid>
-      <description>Maslow&amp;rsquo;s Hiearchy Traditionally the Maslow Hierarchy is presented in the following form:</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Balance on Mika Sanchez</title>
+		<link>https://keyneom.github.io/tags/balance/</link>
+		<description>Recent content in Balance on Mika Sanchez</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 19 Jan 2022 14:17:55 -0700</lastBuildDate>
+		
+			<atom:link href="https://keyneom.github.io/tags/balance/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Maslow Is Misleading You</title>
+				<link>https://keyneom.github.io/posts/maslow-is-misleading-you/</link>
+				<pubDate>Wed, 19 Jan 2022 14:17:55 -0700</pubDate>
+				<guid>https://keyneom.github.io/posts/maslow-is-misleading-you/</guid>
+				<description>&lt;h2 id=&#34;maslows-hiearchy&#34;&gt;Maslow&amp;rsquo;s Hiearchy&lt;/h2&gt;&#xA;&lt;p&gt;Traditionally the Maslow Hierarchy is presented in the following form:&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

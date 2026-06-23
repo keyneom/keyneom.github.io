@@ -1,200 +1,164 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on Mika Sanchez</title>
-    <link>https://keyneom.github.io/tags/</link>
-    <description>Recent content in Tags on Mika Sanchez</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 19 Jan 2022 14:17:55 -0700</lastBuildDate><atom:link href="https://keyneom.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>balance</title>
-      <link>https://keyneom.github.io/tags/balance/</link>
-      <pubDate>Wed, 19 Jan 2022 14:17:55 -0700</pubDate>
-      
-      <guid>https://keyneom.github.io/tags/balance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>fullfillment</title>
-      <link>https://keyneom.github.io/tags/fullfillment/</link>
-      <pubDate>Wed, 19 Jan 2022 14:17:55 -0700</pubDate>
-      
-      <guid>https://keyneom.github.io/tags/fullfillment/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Life Lessons</title>
-      <link>https://keyneom.github.io/tags/life-lessons/</link>
-      <pubDate>Wed, 19 Jan 2022 14:17:55 -0700</pubDate>
-      
-      <guid>https://keyneom.github.io/tags/life-lessons/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>nKipo</title>
-      <link>https://keyneom.github.io/tags/nkipo/</link>
-      <pubDate>Wed, 19 Jan 2022 14:17:55 -0700</pubDate>
-      
-      <guid>https://keyneom.github.io/tags/nkipo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>active</title>
-      <link>https://keyneom.github.io/tags/active/</link>
-      <pubDate>Thu, 02 Jul 2020 21:32:56 -0600</pubDate>
-      
-      <guid>https://keyneom.github.io/tags/active/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>offense</title>
-      <link>https://keyneom.github.io/tags/offense/</link>
-      <pubDate>Thu, 02 Jul 2020 21:32:56 -0600</pubDate>
-      
-      <guid>https://keyneom.github.io/tags/offense/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>optimist</title>
-      <link>https://keyneom.github.io/tags/optimist/</link>
-      <pubDate>Thu, 02 Jul 2020 21:32:56 -0600</pubDate>
-      
-      <guid>https://keyneom.github.io/tags/optimist/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>learning</title>
-      <link>https://keyneom.github.io/tags/learning/</link>
-      <pubDate>Mon, 15 Jun 2020 12:00:00 -0600</pubDate>
-      
-      <guid>https://keyneom.github.io/tags/learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pariveda</title>
-      <link>https://keyneom.github.io/tags/pariveda/</link>
-      <pubDate>Mon, 15 Jun 2020 12:00:00 -0600</pubDate>
-      
-      <guid>https://keyneom.github.io/tags/pariveda/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Project Management</title>
-      <link>https://keyneom.github.io/tags/project-management/</link>
-      <pubDate>Mon, 15 Jun 2020 12:00:00 -0600</pubDate>
-      
-      <guid>https://keyneom.github.io/tags/project-management/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>velocity</title>
-      <link>https://keyneom.github.io/tags/velocity/</link>
-      <pubDate>Mon, 15 Jun 2020 12:00:00 -0600</pubDate>
-      
-      <guid>https://keyneom.github.io/tags/velocity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>active optimist</title>
-      <link>https://keyneom.github.io/tags/active-optimist/</link>
-      <pubDate>Sun, 22 Sep 2019 00:00:00 -0600</pubDate>
-      
-      <guid>https://keyneom.github.io/tags/active-optimist/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>grit</title>
-      <link>https://keyneom.github.io/tags/grit/</link>
-      <pubDate>Sun, 22 Sep 2019 00:00:00 -0600</pubDate>
-      
-      <guid>https://keyneom.github.io/tags/grit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>religion</title>
-      <link>https://keyneom.github.io/tags/religion/</link>
-      <pubDate>Sun, 22 Sep 2019 00:00:00 -0600</pubDate>
-      
-      <guid>https://keyneom.github.io/tags/religion/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>resilience</title>
-      <link>https://keyneom.github.io/tags/resilience/</link>
-      <pubDate>Sun, 22 Sep 2019 00:00:00 -0600</pubDate>
-      
-      <guid>https://keyneom.github.io/tags/resilience/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ultimate concern</title>
-      <link>https://keyneom.github.io/tags/ultimate-concern/</link>
-      <pubDate>Sun, 22 Sep 2019 00:00:00 -0600</pubDate>
-      
-      <guid>https://keyneom.github.io/tags/ultimate-concern/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>expectations</title>
-      <link>https://keyneom.github.io/tags/expectations/</link>
-      <pubDate>Tue, 14 Feb 2017 12:00:00 -0600</pubDate>
-      
-      <guid>https://keyneom.github.io/tags/expectations/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>failure</title>
-      <link>https://keyneom.github.io/tags/failure/</link>
-      <pubDate>Tue, 14 Feb 2017 12:00:00 -0600</pubDate>
-      
-      <guid>https://keyneom.github.io/tags/failure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>goals</title>
-      <link>https://keyneom.github.io/tags/goals/</link>
-      <pubDate>Tue, 14 Feb 2017 12:00:00 -0600</pubDate>
-      
-      <guid>https://keyneom.github.io/tags/goals/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pessimist</title>
-      <link>https://keyneom.github.io/tags/pessimist/</link>
-      <pubDate>Tue, 14 Feb 2017 12:00:00 -0600</pubDate>
-      
-      <guid>https://keyneom.github.io/tags/pessimist/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>realist</title>
-      <link>https://keyneom.github.io/tags/realist/</link>
-      <pubDate>Tue, 14 Feb 2017 12:00:00 -0600</pubDate>
-      
-      <guid>https://keyneom.github.io/tags/realist/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Tags on Mika Sanchez</title>
+		<link>https://keyneom.github.io/tags/</link>
+		<description>Recent content in Tags on Mika Sanchez</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 19 Jan 2022 14:17:55 -0700</lastBuildDate>
+		
+			<atom:link href="https://keyneom.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Balance</title>
+				<link>https://keyneom.github.io/tags/balance/</link>
+				<pubDate>Wed, 19 Jan 2022 14:17:55 -0700</pubDate>
+				<guid>https://keyneom.github.io/tags/balance/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Fullfillment</title>
+				<link>https://keyneom.github.io/tags/fullfillment/</link>
+				<pubDate>Wed, 19 Jan 2022 14:17:55 -0700</pubDate>
+				<guid>https://keyneom.github.io/tags/fullfillment/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Life Lessons</title>
+				<link>https://keyneom.github.io/tags/life-lessons/</link>
+				<pubDate>Wed, 19 Jan 2022 14:17:55 -0700</pubDate>
+				<guid>https://keyneom.github.io/tags/life-lessons/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>NKipo</title>
+				<link>https://keyneom.github.io/tags/nkipo/</link>
+				<pubDate>Wed, 19 Jan 2022 14:17:55 -0700</pubDate>
+				<guid>https://keyneom.github.io/tags/nkipo/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Active</title>
+				<link>https://keyneom.github.io/tags/active/</link>
+				<pubDate>Thu, 02 Jul 2020 21:32:56 -0600</pubDate>
+				<guid>https://keyneom.github.io/tags/active/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Offense</title>
+				<link>https://keyneom.github.io/tags/offense/</link>
+				<pubDate>Thu, 02 Jul 2020 21:32:56 -0600</pubDate>
+				<guid>https://keyneom.github.io/tags/offense/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Optimist</title>
+				<link>https://keyneom.github.io/tags/optimist/</link>
+				<pubDate>Thu, 02 Jul 2020 21:32:56 -0600</pubDate>
+				<guid>https://keyneom.github.io/tags/optimist/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Learning</title>
+				<link>https://keyneom.github.io/tags/learning/</link>
+				<pubDate>Mon, 15 Jun 2020 12:00:00 -0600</pubDate>
+				<guid>https://keyneom.github.io/tags/learning/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Pariveda</title>
+				<link>https://keyneom.github.io/tags/pariveda/</link>
+				<pubDate>Mon, 15 Jun 2020 12:00:00 -0600</pubDate>
+				<guid>https://keyneom.github.io/tags/pariveda/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Project Management</title>
+				<link>https://keyneom.github.io/tags/project-management/</link>
+				<pubDate>Mon, 15 Jun 2020 12:00:00 -0600</pubDate>
+				<guid>https://keyneom.github.io/tags/project-management/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Velocity</title>
+				<link>https://keyneom.github.io/tags/velocity/</link>
+				<pubDate>Mon, 15 Jun 2020 12:00:00 -0600</pubDate>
+				<guid>https://keyneom.github.io/tags/velocity/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Active Optimist</title>
+				<link>https://keyneom.github.io/tags/active-optimist/</link>
+				<pubDate>Sun, 22 Sep 2019 00:00:00 -0600</pubDate>
+				<guid>https://keyneom.github.io/tags/active-optimist/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Grit</title>
+				<link>https://keyneom.github.io/tags/grit/</link>
+				<pubDate>Sun, 22 Sep 2019 00:00:00 -0600</pubDate>
+				<guid>https://keyneom.github.io/tags/grit/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Religion</title>
+				<link>https://keyneom.github.io/tags/religion/</link>
+				<pubDate>Sun, 22 Sep 2019 00:00:00 -0600</pubDate>
+				<guid>https://keyneom.github.io/tags/religion/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Resilience</title>
+				<link>https://keyneom.github.io/tags/resilience/</link>
+				<pubDate>Sun, 22 Sep 2019 00:00:00 -0600</pubDate>
+				<guid>https://keyneom.github.io/tags/resilience/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Ultimate Concern</title>
+				<link>https://keyneom.github.io/tags/ultimate-concern/</link>
+				<pubDate>Sun, 22 Sep 2019 00:00:00 -0600</pubDate>
+				<guid>https://keyneom.github.io/tags/ultimate-concern/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Expectations</title>
+				<link>https://keyneom.github.io/tags/expectations/</link>
+				<pubDate>Tue, 14 Feb 2017 12:00:00 -0600</pubDate>
+				<guid>https://keyneom.github.io/tags/expectations/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Failure</title>
+				<link>https://keyneom.github.io/tags/failure/</link>
+				<pubDate>Tue, 14 Feb 2017 12:00:00 -0600</pubDate>
+				<guid>https://keyneom.github.io/tags/failure/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Goals</title>
+				<link>https://keyneom.github.io/tags/goals/</link>
+				<pubDate>Tue, 14 Feb 2017 12:00:00 -0600</pubDate>
+				<guid>https://keyneom.github.io/tags/goals/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Pessimist</title>
+				<link>https://keyneom.github.io/tags/pessimist/</link>
+				<pubDate>Tue, 14 Feb 2017 12:00:00 -0600</pubDate>
+				<guid>https://keyneom.github.io/tags/pessimist/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Realist</title>
+				<link>https://keyneom.github.io/tags/realist/</link>
+				<pubDate>Tue, 14 Feb 2017 12:00:00 -0600</pubDate>
+				<guid>https://keyneom.github.io/tags/realist/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>

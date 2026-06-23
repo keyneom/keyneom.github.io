@@ -1,48 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Life Lessons on Mika Sanchez</title>
-    <link>https://keyneom.github.io/tags/life-lessons/</link>
-    <description>Recent content in Life Lessons on Mika Sanchez</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 19 Jan 2022 14:17:55 -0700</lastBuildDate><atom:link href="https://keyneom.github.io/tags/life-lessons/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Maslow Is Misleading You</title>
-      <link>https://keyneom.github.io/posts/maslow-is-misleading-you/</link>
-      <pubDate>Wed, 19 Jan 2022 14:17:55 -0700</pubDate>
-      
-      <guid>https://keyneom.github.io/posts/maslow-is-misleading-you/</guid>
-      <description>Maslow&amp;rsquo;s Hiearchy Traditionally the Maslow Hierarchy is presented in the following form:</description>
-    </item>
-    
-    <item>
-      <title>Never Take Offense</title>
-      <link>https://keyneom.github.io/posts/never-take-offense/</link>
-      <pubDate>Thu, 02 Jul 2020 21:32:56 -0600</pubDate>
-      
-      <guid>https://keyneom.github.io/posts/never-take-offense/</guid>
-      <description>TL;DR Taking offense is always the wrong choice . . .</description>
-    </item>
-    
-    <item>
-      <title>Resilience &amp; Grit</title>
-      <link>https://keyneom.github.io/posts/resilience-and-grit/</link>
-      <pubDate>Sun, 22 Sep 2019 00:00:00 -0600</pubDate>
-      
-      <guid>https://keyneom.github.io/posts/resilience-and-grit/</guid>
-      <description>Overcoming Trials in a World of Instant Gratification Today during my talk I&amp;rsquo;d like to focus on how and why we need to develop the Christlike attribute of resilience and grit.</description>
-    </item>
-    
-    <item>
-      <title>Optimism and Expectations</title>
-      <link>https://keyneom.github.io/posts/optimism-and-expectations/</link>
-      <pubDate>Tue, 14 Feb 2017 12:00:00 -0600</pubDate>
-      
-      <guid>https://keyneom.github.io/posts/optimism-and-expectations/</guid>
-      <description>Is the glass half empty or half full?
-The most common responses to that question are summed up with the following labels and responses:</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Life Lessons on Mika Sanchez</title>
+		<link>https://keyneom.github.io/tags/life-lessons/</link>
+		<description>Recent content in Life Lessons on Mika Sanchez</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 19 Jan 2022 14:17:55 -0700</lastBuildDate>
+		
+			<atom:link href="https://keyneom.github.io/tags/life-lessons/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Maslow Is Misleading You</title>
+				<link>https://keyneom.github.io/posts/maslow-is-misleading-you/</link>
+				<pubDate>Wed, 19 Jan 2022 14:17:55 -0700</pubDate>
+				<guid>https://keyneom.github.io/posts/maslow-is-misleading-you/</guid>
+				<description>&lt;h2 id=&#34;maslows-hiearchy&#34;&gt;Maslow&amp;rsquo;s Hiearchy&lt;/h2&gt;&#xA;&lt;p&gt;Traditionally the Maslow Hierarchy is presented in the following form:&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Never Take Offense</title>
+				<link>https://keyneom.github.io/posts/never-take-offense/</link>
+				<pubDate>Thu, 02 Jul 2020 21:32:56 -0600</pubDate>
+				<guid>https://keyneom.github.io/posts/never-take-offense/</guid>
+				<description>&lt;h2 id=&#34;tldr&#34;&gt;TL;DR&lt;/h2&gt;&#xA;&lt;p&gt;Taking offense is always the wrong choice . . . and it &lt;em&gt;is&lt;/em&gt; a choice! But don&amp;rsquo;t easily offend either.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Resilience &amp; Grit</title>
+				<link>https://keyneom.github.io/posts/resilience-and-grit/</link>
+				<pubDate>Sun, 22 Sep 2019 00:00:00 -0600</pubDate>
+				<guid>https://keyneom.github.io/posts/resilience-and-grit/</guid>
+				<description>&lt;h3 id=&#34;overcoming-trials-in-a-world-of-instant-gratification&#34;&gt;Overcoming Trials in a World of Instant Gratification&lt;/h3&gt;&#xA;&lt;p&gt;Today during my talk I&amp;rsquo;d like to focus on how and why we need to develop the Christlike attribute of resilience and grit. To me, they are the same thing in practice so you&amp;rsquo;ll hear me use them interchangeably throughout the talk.&lt;/p&gt;</description>
+			</item>
+			<item>
+				<title>Optimism and Expectations</title>
+				<link>https://keyneom.github.io/posts/optimism-and-expectations/</link>
+				<pubDate>Tue, 14 Feb 2017 12:00:00 -0600</pubDate>
+				<guid>https://keyneom.github.io/posts/optimism-and-expectations/</guid>
+				<description>&lt;p&gt;Is the glass half empty or half full?&lt;/p&gt;&#xA;&lt;p&gt;The most common responses to that question are summed up with the following labels and responses:&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

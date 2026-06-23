@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Categories on Mika Sanchez</title>
-    <link>https://keyneom.github.io/categories/</link>
-    <description>Recent content in Categories on Mika Sanchez</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 19 Jan 2022 14:17:55 -0700</lastBuildDate><atom:link href="https://keyneom.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Life Lessons</title>
-      <link>https://keyneom.github.io/categories/life-lessons/</link>
-      <pubDate>Wed, 19 Jan 2022 14:17:55 -0700</pubDate>
-      
-      <guid>https://keyneom.github.io/categories/life-lessons/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Project Management</title>
-      <link>https://keyneom.github.io/categories/project-management/</link>
-      <pubDate>Mon, 15 Jun 2020 12:00:00 -0600</pubDate>
-      
-      <guid>https://keyneom.github.io/categories/project-management/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Religion</title>
-      <link>https://keyneom.github.io/categories/religion/</link>
-      <pubDate>Sun, 22 Sep 2019 00:00:00 -0600</pubDate>
-      
-      <guid>https://keyneom.github.io/categories/religion/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Categories on Mika Sanchez</title>
+		<link>https://keyneom.github.io/categories/</link>
+		<description>Recent content in Categories on Mika Sanchez</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Wed, 19 Jan 2022 14:17:55 -0700</lastBuildDate>
+		
+			<atom:link href="https://keyneom.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Life Lessons</title>
+				<link>https://keyneom.github.io/categories/life-lessons/</link>
+				<pubDate>Wed, 19 Jan 2022 14:17:55 -0700</pubDate>
+				<guid>https://keyneom.github.io/categories/life-lessons/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Project Management</title>
+				<link>https://keyneom.github.io/categories/project-management/</link>
+				<pubDate>Mon, 15 Jun 2020 12:00:00 -0600</pubDate>
+				<guid>https://keyneom.github.io/categories/project-management/</guid>
+				<description></description>
+			</item>
+			<item>
+				<title>Religion</title>
+				<link>https://keyneom.github.io/categories/religion/</link>
+				<pubDate>Sun, 22 Sep 2019 00:00:00 -0600</pubDate>
+				<guid>https://keyneom.github.io/categories/religion/</guid>
+				<description></description>
+			</item>
+	</channel>
 </rss>

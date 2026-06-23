@@ -1,20 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Project Management on Mika Sanchez</title>
-    <link>https://keyneom.github.io/tags/project-management/</link>
-    <description>Recent content in Project Management on Mika Sanchez</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jun 2020 12:00:00 -0600</lastBuildDate><atom:link href="https://keyneom.github.io/tags/project-management/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Team Velocity: Injecting Accelerants</title>
-      <link>https://keyneom.github.io/posts/team-velocity-injecting-accelerants/</link>
-      <pubDate>Mon, 15 Jun 2020 12:00:00 -0600</pubDate>
-      
-      <guid>https://keyneom.github.io/posts/team-velocity-injecting-accelerants/</guid>
-      <description>Recently, a previous client reached out to me asking about how to avoid some recurring issues that their team was running into.</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Project Management on Mika Sanchez</title>
+		<link>https://keyneom.github.io/tags/project-management/</link>
+		<description>Recent content in Project Management on Mika Sanchez</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Mon, 15 Jun 2020 12:00:00 -0600</lastBuildDate>
+		
+			<atom:link href="https://keyneom.github.io/tags/project-management/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Team Velocity: Injecting Accelerants</title>
+				<link>https://keyneom.github.io/posts/team-velocity-injecting-accelerants/</link>
+				<pubDate>Mon, 15 Jun 2020 12:00:00 -0600</pubDate>
+				<guid>https://keyneom.github.io/posts/team-velocity-injecting-accelerants/</guid>
+				<description>&lt;p&gt;Recently, a previous client reached out to me asking about how to avoid some recurring issues that their team was running into. In essence, members of the team continued to make silly but difficult to find errors that were taking much longer to fix than they should have taken. Often times, this is a symptom of a team&amp;rsquo;s &lt;em&gt;immature&lt;/em&gt; sense of urgency to hit deadlines, close out all the stories in a given sprint, or just keep the business happy. To be clear, a sense of urgency can be an important factor in developing a high-performing team but it can also be debilitating. As a result, I&amp;rsquo;d like to provide some principles to keep in mind when facing these types of challenges.&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>

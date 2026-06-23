@@ -1,21 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>realist on Mika Sanchez</title>
-    <link>https://keyneom.github.io/tags/realist/</link>
-    <description>Recent content in realist on Mika Sanchez</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 14 Feb 2017 12:00:00 -0600</lastBuildDate><atom:link href="https://keyneom.github.io/tags/realist/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Optimism and Expectations</title>
-      <link>https://keyneom.github.io/posts/optimism-and-expectations/</link>
-      <pubDate>Tue, 14 Feb 2017 12:00:00 -0600</pubDate>
-      
-      <guid>https://keyneom.github.io/posts/optimism-and-expectations/</guid>
-      <description>Is the glass half empty or half full?
-The most common responses to that question are summed up with the following labels and responses:</description>
-    </item>
-    
-  </channel>
+	<channel>
+		<title>Realist on Mika Sanchez</title>
+		<link>https://keyneom.github.io/tags/realist/</link>
+		<description>Recent content in Realist on Mika Sanchez</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 14 Feb 2017 12:00:00 -0600</lastBuildDate>
+		
+			<atom:link href="https://keyneom.github.io/tags/realist/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Optimism and Expectations</title>
+				<link>https://keyneom.github.io/posts/optimism-and-expectations/</link>
+				<pubDate>Tue, 14 Feb 2017 12:00:00 -0600</pubDate>
+				<guid>https://keyneom.github.io/posts/optimism-and-expectations/</guid>
+				<description>&lt;p&gt;Is the glass half empty or half full?&lt;/p&gt;&#xA;&lt;p&gt;The most common responses to that question are summed up with the following labels and responses:&lt;/p&gt;</description>
+			</item>
+	</channel>
 </rss>
