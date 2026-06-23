@@ -56,60 +56,11 @@
   <link rel="shortcut icon" href="/favicon.png">
 
   
-  </head>
+  <link href="/pagefind/pagefind-component-ui.css" rel="stylesheet">
+  <script src="/pagefind/pagefind-component-ui.js" type="module"></script>
+</head>
 <body>
-  <aside class="sidebar">
-  
-  <script type="module">
-    
-    
-    
-    
-    
-    
-    
-    
-    import { search, default as init } from '/search/tinysearch_engine.js';
-    window.search = search;
-
-    async function run() {
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      await init('/search/tinysearch_engine_bg.wasm');
-    }
-
-    run();
-  </script>
-
-  <script>
-    
-    function doSearch() {
-      let value = document.getElementById("search-input").value;
-      const arr = search(value, 10);
-      let ul = document.getElementById("results");
-      ul.innerHTML = "";
-
-      for (i = 0; i < arr.length; i++) {
-        var li = document.createElement("li");
-
-        let elem = arr[i];
-        let elemlink = document.createElement('a');
-        elemlink.innerHTML = elem[0];
-        elemlink.setAttribute('href', elem[1]);
-        li.appendChild(elemlink);
-
-        ul.appendChild(li);
-      }
-    }
-  </script>
+  <aside class="sidebar" data-pagefind-ignore="all">
   <div class="container">
     <div class="sidebar-about">
       
@@ -127,8 +78,11 @@
       
     </div>
     <div class="search">
-      <input type="text" id="search-input" onkeyup="doSearch()" placeholder="Search" />
-      <ul id="results"></ul>
+      <pagefind-searchbox
+        placeholder="Search"
+        max-results="10"
+        hide-shortcut
+      ></pagefind-searchbox>
     </div>
     <nav>
       <ul class="sidebar-nav">
@@ -161,7 +115,8 @@
   </div>
 </aside>
 
-  <main class="content container">
+
+  <main class="content container" data-pagefind-ignore="all">
   <h1>Page not found</h1>
 <p class="lead">
     Sorry, we've misplaced that URL or it's pointing to something that doesn't exist.
@@ -169,7 +124,7 @@
 </p>
   </main>
 
-  <footer>
+  <footer data-pagefind-ignore="all">
   <div>
     &copy; Mika Sanchez 2026
 

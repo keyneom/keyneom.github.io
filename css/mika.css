@@ -1,43 +1,29 @@
-#search-input {
-    border: 1px solid #ccc;
-    border-radius: 2em;
-    box-shadow: 0 1px 3px #ddd;
-    box-sizing: border-box;
-    width: -webkit-fill-available;
-    padding-left:0.5rem;
+.search {
+    position: relative;
 }
 
-#results {
+.search pagefind-searchbox {
     display: block;
-    /* margin-left: .5em; */
-    list-style-type: none;
-    overflow-y: auto;
-    position: absolute;
-    z-index: 9999;
-    box-sizing: inherit;
-    text-align: start;
-    color: black;
-    width: -webkit-fill-available;
-    font-size: inherit;
-    padding-inline-start: 0.35rem;
-    padding-inline-end: 4.3rem;
-}
-
-#results > li {
-    box-shadow: 0 2px 2px 0 rgba(0,0,0,0.14), 0 3px 1px -2px rgba(0,0,0,0.12), 0 1px 5px 0 rgba(0,0,0,0.2);
-    background-color: white;
-    display: list-item;
-    list-style-type: none;
-    width: -webkit-fill-available;
-    font-size: inherit;
-    padding-left:0.3rem;
-}
-
-#results > li > a {
-    overflow-x: auto;
-    text-overflow: ellipsis;
-    font-size: 0.66em;
-    color: black;
+    width: 100%;
+    --pf-searchbox-max-width: 100%;
+    --pf-border-radius: 2em;
+    --pf-input-height: 2em;
+    --pf-input-font-size: inherit;
+    --pf-font: inherit;
+    --pf-text: #000;
+    --pf-text-secondary: #333;
+    --pf-text-muted: #666;
+    --pf-background: #fff;
+    --pf-border: #ccc;
+    --pf-border-focus: #999;
+    --pf-shadow-sm: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.12), 0 1px 5px 0 rgba(0, 0, 0, 0.2);
+    --pf-shadow-md: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.12), 0 1px 5px 0 rgba(0, 0, 0, 0.2);
+    --pf-hover: #f8f8f8;
+    --pf-mark: #000;
+    --pf-dropdown-z-index: 9999;
+    --pf-searchbox-dropdown-max-height: 320px;
+    --pf-result-title-font-size: 0.66em;
+    --pf-result-excerpt-font-size: 0.6em;
 }
 
 .comments {
@@ -89,4 +75,30 @@
 
 .comment-via-email a {
     font-weight: 600;
+}
+
+.comment-instructions {
+    margin: 1rem 0 1.25rem;
+    padding: 0.85rem 1rem;
+    background: #f8f9fa;
+    border-left: 3px solid #ccc;
+    font-size: 0.92rem;
+    line-height: 1.5;
+}
+
+.comment-instructions p {
+    margin: 0 0 0.5rem;
+}
+
+.comment-instructions ul {
+    margin: 0;
+    padding-left: 1.25rem;
+}
+
+.comment-instructions li {
+    margin-bottom: 0.35rem;
+}
+
+.comment-instructions code {
+    font-size: 0.88em;
 }

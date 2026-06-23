@@ -67,60 +67,11 @@ The most common responses to that question are summed up with the following labe
   <link rel="shortcut icon" href="/favicon.png">
 
   
-  </head>
+  <link href="/pagefind/pagefind-component-ui.css" rel="stylesheet">
+  <script src="/pagefind/pagefind-component-ui.js" type="module"></script>
+</head>
 <body>
-  <aside class="sidebar">
-  
-  <script type="module">
-    
-    
-    
-    
-    
-    
-    
-    
-    import { search, default as init } from '/search/tinysearch_engine.js';
-    window.search = search;
-
-    async function run() {
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      await init('/search/tinysearch_engine_bg.wasm');
-    }
-
-    run();
-  </script>
-
-  <script>
-    
-    function doSearch() {
-      let value = document.getElementById("search-input").value;
-      const arr = search(value, 10);
-      let ul = document.getElementById("results");
-      ul.innerHTML = "";
-
-      for (i = 0; i < arr.length; i++) {
-        var li = document.createElement("li");
-
-        let elem = arr[i];
-        let elemlink = document.createElement('a');
-        elemlink.innerHTML = elem[0];
-        elemlink.setAttribute('href', elem[1]);
-        li.appendChild(elemlink);
-
-        ul.appendChild(li);
-      }
-    }
-  </script>
+  <aside class="sidebar" data-pagefind-ignore="all">
   <div class="container">
     <div class="sidebar-about">
       
@@ -138,8 +89,11 @@ The most common responses to that question are summed up with the following labe
       
     </div>
     <div class="search">
-      <input type="text" id="search-input" onkeyup="doSearch()" placeholder="Search" />
-      <ul id="results"></ul>
+      <pagefind-searchbox
+        placeholder="Search"
+        max-results="10"
+        hide-shortcut
+      ></pagefind-searchbox>
     </div>
     <nav>
       <ul class="sidebar-nav">
@@ -172,12 +126,13 @@ The most common responses to that question are summed up with the following labe
   </div>
 </aside>
 
+
   <main class="content container">
-  <div class="post">
-  <h1>Optimism and Expectations</h1>
+  <div class="post" data-pagefind-body>
+  <h1 data-pagefind-meta="title">Optimism and Expectations</h1>
 
   <div class="post-date">
-    <time datetime="2017-02-14T12:00:00-0600">Feb 14, 2017</time> &middot; 4 min read
+    <time datetime="2017-02-14T12:00:00-0600" data-pagefind-meta="date">Feb 14, 2017</time> &middot; 4 min read
   </div>
 
   <p>Is the glass half empty or half full?</p>
@@ -202,7 +157,7 @@ The most common responses to that question are summed up with the following labe
 </div>
 
 
-<section class="comments" id="comments">
+<section class="comments" id="comments" data-pagefind-ignore="all">
   <h2>Comments</h2>
 
   
@@ -213,14 +168,36 @@ The most common responses to that question are summed up with the following labe
   <p class="comment-empty">No comments yet.</p>
   
 
+  <div class="comment-instructions">
+    <p>Comments are sent by email. Your mail app opens with a short template — please follow it so your comment is linked to this post.</p>
+    <ul>
+      <li><strong>Do not change the subject line.</strong> It must stay <code>Comment for: https://keyneom.github.io/posts/optimism-and-expectations/</code>.</li>
+      <li><strong>Do not delete the <code>Page:</code> line</strong> at the top of the message body.</li>
+      <li>Put your display name on the <code>Name:</code> line (or leave it blank for Anonymous).</li>
+      <li>Write your comment below <code>Comment:</code>. Markdown works; raw HTML is not published.</li>
+    </ul>
+  </div>
+
   <p class="comment-via-email">
     <a data-comment-email href="#">Comment via email</a>
   </p>
   <script>
     (function () {
       const address = "\"keyneom122+blogcomments@hotmail.com\"";
-      const subject = "Comment for: " + window.location.href;
-      const body = "Name: \n\nComment: ";
+      const pageUrl = "\"https://keyneom.github.io/posts/optimism-and-expectations/\"";
+      const subject = "Comment for: " + pageUrl;
+      const body = [
+        "=== Blog comment template — keep Page line and subject unchanged ===",
+        "",
+        "Page: " + pageUrl,
+        "",
+        "Name: ",
+        "",
+        "Comment: ",
+        "",
+        "",
+        "=== end template ==="
+      ].join("\n");
       const href =
         "mailto:" +
         address +
@@ -237,7 +214,7 @@ The most common responses to that question are summed up with the following labe
 
   </main>
 
-  <footer>
+  <footer data-pagefind-ignore="all">
   <div>
     &copy; Mika Sanchez 2026
 
